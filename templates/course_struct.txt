@@ -7,6 +7,6 @@
 2^Early Inklings^pioneers.html
 2^Let's Be Formal^formal.html
 2^Keeping an Eye on the Prize^prize.html
-2^^attempts.html
+2^P = NP? No Problem!^attempts.html
 2^Conclusion^conclusion.html
 1^Other Material^
