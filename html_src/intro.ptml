@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Introduction
+        </title>
+<!--include googleAnalyticsScript.txt -->
+    </head>
+
+    <body>
+        <div class="wrapper">
+<!--include navbar.txt -->
+            <div id="content">
+                <h1>
+                    Introduction
+                </h1>
+
+                <p>
+                    Start with Clay Institute prize?
+                </p>
+
+            </div>
+        </div>
+
+    </body>
+</html>

@@ -30,6 +30,6 @@ clean:
 
 course_struct:
 	$(UTILS_DIR)/create_menu.py $(TEMPLATE_DIR)/course_struct.txt $(TEMPLATE_DIR)/navbar.txt
-	$(UTILS_DIR)/create_pages.py $(TEMPLATE_DIR)/course_struct.txt $(PTML_DIR) $(UTILS_DIR)/templates/template.ptml $(PTML_DIR)
+	$(UTILS_DIR)/create_pages.py $(TEMPLATE_DIR)/course_struct.txt $(UTILS_DIR)/templates/template.ptml $(PTML_DIR)
 	git add $(PTML_DIR)/*.ptml
 	make local

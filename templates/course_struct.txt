@@ -1,4 +1,4 @@
-0^^^P=NP?^
+0^P=NP?^^P=NP?^
 1^Home^index.html^
 1^Book Chapters^
 2^Introduction^intro.html
@@ -8,5 +8,7 @@
 2^Let's Be Formal^formal.html
 2^Keeping an Eye on the Prize^prize.html
 2^P = NP? No Problem!^attempts.html
+2^Where Are We Now?^now.html
 2^Conclusion^conclusion.html
 1^Other Material^
+2^Links^links.html

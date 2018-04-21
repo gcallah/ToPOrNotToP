@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+<!--include head.txt -->
+        <title>
+            Let's Be Formal
+        </title>
+<!--include googleAnalyticsScript.txt -->
+    </head>
+
+    <body>
+        <div class="wrapper">
+<!--include navbar.txt -->
+            <div id="content">
+                <h1>
+                    Let's Be Formal
+                </h1>
+
+                <p>
+                    The problem is finally put formally in 1971.
+                </p>
+
+            </div>
+        </div>
+
+    </body>
+</html>
